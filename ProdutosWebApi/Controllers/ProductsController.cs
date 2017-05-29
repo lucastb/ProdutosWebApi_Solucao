@@ -8,7 +8,7 @@ using System.Net.Http;
 using System.Web.Http;
 
 namespace ProdutosWebApi.Controllers
-{
+{//teste
     public class ProductsController : ApiController
     {
         static readonly IProductRepository repository = new ProductRepository();
